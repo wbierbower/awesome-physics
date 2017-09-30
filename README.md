@@ -96,6 +96,7 @@ Please take a quick look at the [contribution guidelines](./CONTRIBUTING.md) fir
 ### Gravity
 
 * [Gravity-Simulator](https://github.com/HermannBjorgvin/Gravity-Simulator) - A 2D newtonian gravity simulator in JS
+* [pycbc](https://github.com/ligo-cbc/pycbc) - Analyze gravitational-wave data, find signals, and study their parameters
 
 ## Waves and Acoustics
 
@@ -129,6 +130,7 @@ Please take a quick look at the [contribution guidelines](./CONTRIBUTING.md) fir
 * [meep](https://github.com/stevengj/meep) - Free finite-difference time-domain (FDTD) software for electromagnetic simulations
 * [openEMS](https://github.com/thliebig/openEMS) - A free and open-source electromagnetic field solver using the EC-FDTD method
 * [openmeeg](https://github.com/openmeeg/openmeeg) - A C++ package for low-frequency bio-electromagnetism solving forward problems in the field of EEG and MEG
+* [PlasmaPy](https://github.com/PlasmaPy/PlasmaPy) - A community developed python package for plasma physics in the very early stages of development.
 * [scattpy](https://github.com/ScattPy/scikits.scattpy) - Light Scattering Methods for Python
 * [scikit-beam](https://github.com/scikit-beam/scikit-beam) - Data analysis tools for X-Ray, Neutron and Electron sciences
 * [scikit-rf](https://github.com/scikit-rf/scikit-rf) - RF and Microwave Engineering Scikit
@@ -150,6 +152,7 @@ Please take a quick look at the [contribution guidelines](./CONTRIBUTING.md) fir
 
 ## Quantum Physics
 
+* [artiq](https://github.com/m-labs/artiq) - Next-generation control system for quantum information experiments
 * [particle-clicker](https://github.com/particle-clicker/particle-clicker) - An addictive incremental game that teaches players the history of high energy particle physics
 * [Psi4](https://github.com/psi4/psi4) - Open-source Quantum Chemistry
 * [pypdt](https://bitbucket.org/andybuckley/pypdt) - Pythonic access to high energy particle data tables and ID codes
@@ -163,6 +166,7 @@ Please take a quick look at the [contribution guidelines](./CONTRIBUTING.md) fir
 * [CERN](https://github.com/CERN) - European Organization for Nuclear Research
 * [IOP](https://github.com/Institute-of-Physics) - Institute of Physics
 * [LANL](https://github.com/lanl) - Los Alamos National Lab
+* [LIGO](https://github.com/lscsoft) - Laser Inferometer Gravitational-Wave Experiment
 * [LLNL](https://github.com/LLNL) - Lawrence Livermore National Laboratory
 * [MPPMU](https://github.com/mppmu) - Max Planck Institute for Physics
 * [NIST](https://github.com/usnistgov) - National Institute of Standards and Technology
