@@ -16,6 +16,7 @@ Please take a quick look at the [contribution guidelines](./CONTRIBUTING.md) fir
 * [Optics](#optics)
 * [Relativity](#relativity)
 * [Quantum Physics](#quantum-physics)
+* [Astronomy](#astronomy)
 * [Organizations](#organizations)
 
 ## Fundamental Scientific Computing Libraries
@@ -46,7 +47,6 @@ Please take a quick look at the [contribution guidelines](./CONTRIBUTING.md) fir
 ### Python
 
 * [awesome-python](https://github.com/vinta/awesome-python#science)
-* [astropy](https://github.com/astropy/astropy) - intended to contain much of the core functionality and some common tools needed for performing astronomy and astrophysics with Python
 * [matplotlib](https://github.com/matplotlib/matplotlib) - plotting with Python
 * [numpy](https://github.com/numpy/numpy) - the fundamental package needed for scientific computing with Python
 * [pandas](https://github.com/pandas-dev/pandas) - Flexible and powerful data analysis / manipulation library for Python
@@ -81,6 +81,7 @@ Please take a quick look at the [contribution guidelines](./CONTRIBUTING.md) fir
 
 * [matter-js](https://github.com/liabru/matter-js) - A 2D rigid body physics engine for the web
 * [mujoco-py](https://github.com/openai/mujoco-py) - A physics engine for detailed, efficient rigid body simulations with contacts
+* [newton-dynamics](https://github.com/MADEAPPS/newton-dynamics) - an integrated solution for real time simulation of physics environments
 * [nphysics](https://github.com/sebcrozet/nphysics) - 2 and 3-dimensional rigid body physics engine for Rust
 * [PositionBasedDynamics](https://github.com/InteractiveComputerGraphics/PositionBasedDynamics) - A library for the physically-based simulation of rigid bodies, deformable solids and fluids
 * [pymunk](https://github.com/viblo/pymunk) - A easy-to-use pythonic 2d physics library
@@ -160,6 +161,11 @@ Please take a quick look at the [contribution guidelines](./CONTRIBUTING.md) fir
 * [QuantumOptics.jl](https://github.com/qojulia/QuantumOptics.jl) - Library for the numerical simulation of closed as well as open quantum systems
 * [qutip](https://github.com/qutip/qutip) - Quantum Toolbox in Python
 * [scikit-hep](https://github.com/scikit-hep/scikit-hep) - Toolkit of interfaces and tools for high energy physics (HEP)
+
+## Astronomy
+
+* [astropy](https://github.com/astropy/astropy) - intended to contain much of the core functionality and some common tools needed for performing astronomy and astrophysics with Python
+* [sunpy](https://github.com/sunpy/sunpy) - an open-source Python library for solar physics data analysis
 
 ## Organizations
 
