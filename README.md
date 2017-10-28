@@ -16,7 +16,7 @@ Please take a quick look at the [contribution guidelines](./CONTRIBUTING.md) fir
 * [Optics](#optics)
 * [Relativity](#relativity)
 * [Quantum Physics](#quantum-physics)
-* [Astronomy](#astronomy)
+* [Astrophysics](#astrophysics)
 * [Organizations](#organizations)
 
 ## Fundamental Scientific Computing Libraries
@@ -106,7 +106,6 @@ Please take a quick look at the [contribution guidelines](./CONTRIBUTING.md) fir
 
 ### Mechanical Waves
 
-* [PHAS1224](https://github.com/davidbowler/PHAS1224) - Materials for PHAS1224: Waves, Optics and Acoustics
 * [pyrocko](https://github.com/pyrocko/pyrocko) - A seismology toolkit for Python
 * [sw4](https://github.com/geodynamics/sw4) - 3-D seismic modeling
 * [webgl-ripples](https://github.com/m-ender/webgl-ripples) - A physically realistic real-time simulation of (transversal) 2D waves in WebGL
@@ -162,9 +161,10 @@ Please take a quick look at the [contribution guidelines](./CONTRIBUTING.md) fir
 * [qutip](https://github.com/qutip/qutip) - Quantum Toolbox in Python
 * [scikit-hep](https://github.com/scikit-hep/scikit-hep) - Toolkit of interfaces and tools for high energy physics (HEP)
 
-## Astronomy
+## Astrophysics
 
 * [astropy](https://github.com/astropy/astropy) - intended to contain much of the core functionality and some common tools needed for performing astronomy and astrophysics with Python
+* [gala](https://github.com/adrn/gala) - Galactic and gravitational dynamics in Python
 * [sunpy](https://github.com/sunpy/sunpy) - an open-source Python library for solar physics data analysis
 
 ## Organizations
