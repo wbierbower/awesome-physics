@@ -159,6 +159,7 @@ Please take a quick look at the [contribution guidelines](./CONTRIBUTING.md) fir
 * [quantum-python-lectures](https://github.com/tommyogden/quantum-python-lectures) -  A series of self-study lectures on using Python for scientific computing at the graduate level in atomic physics and quantum optics.
 * [QuantumOptics.jl](https://github.com/qojulia/QuantumOptics.jl) - Library for the numerical simulation of closed as well as open quantum systems
 * [qutip](https://github.com/qutip/qutip) - Quantum Toolbox in Python
+* [ROOT](https://github.com/root-project/root) - A data processing and analysis framework, mainly used in high-energy physics
 * [scikit-hep](https://github.com/scikit-hep/scikit-hep) - Toolkit of interfaces and tools for high energy physics (HEP)
 
 ## Astrophysics
