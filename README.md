@@ -135,6 +135,7 @@ Please take a quick look at the [contribution guidelines](./CONTRIBUTING.md) fir
 * [scikit-beam](https://github.com/scikit-beam/scikit-beam) - Data analysis tools for X-Ray, Neutron and Electron sciences
 * [scikit-rf](https://github.com/scikit-rf/scikit-rf) - RF and Microwave Engineering Scikit
 * [scikit-spectra](https://github.com/hugadams/scikit-spectra) - A python pandas-based toolkit for explorative spectroscopy, in particular UVVis spectroscopic data
+* [scuff-em](https://github.com/HomerReid/scuff-em) - computational physics suite for boundary-element analysis of electromagnetic scattering, fluctuation-induced phenomena, nanophotonics, RF device engineering, electrostatics, and more
 * [spirit](https://github.com/spirit-code/spirit) - Optimizations and Dynamics Framework for atomistic Spin systems
 
 ## Optics
@@ -166,6 +167,8 @@ Please take a quick look at the [contribution guidelines](./CONTRIBUTING.md) fir
 
 * [astropy](https://github.com/astropy/astropy) - intended to contain much of the core functionality and some common tools needed for performing astronomy and astrophysics with Python
 * [gala](https://github.com/adrn/gala) - Galactic and gravitational dynamics in Python
+* [galpy](http://galpy.readthedocs.io/en/latest/) - Galactic Dynamics in python
+* [pynbody](https://github.com/pynbody/pynbody) - framework for N-body and hydrodynamic astrophysical simulations
 * [sunpy](https://github.com/sunpy/sunpy) - an open-source Python library for solar physics data analysis
 
 ## Organizations
