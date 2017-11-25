@@ -17,6 +17,7 @@ Please take a quick look at the [contribution guidelines](./CONTRIBUTING.md) fir
 * [Relativity](#relativity)
 * [Quantum Physics](#quantum-physics)
 * [Astrophysics](#astrophysics)
+* [Geophysics](#geophysics)
 * [Organizations](#organizations)
 
 ## Fundamental Scientific Computing Libraries
@@ -171,6 +172,11 @@ Please take a quick look at the [contribution guidelines](./CONTRIBUTING.md) fir
 * [galpy](http://galpy.readthedocs.io/en/latest/) - Galactic Dynamics in python
 * [pynbody](https://github.com/pynbody/pynbody) - framework for N-body and hydrodynamic astrophysical simulations
 * [sunpy](https://github.com/sunpy/sunpy) - an open-source Python library for solar physics data analysis
+
+## Geophysics
+
+* [em](https://github.com/geoscixyz/em) - Electromagnetic methods in geophysics - open educational resources
+* [simpeg](https://github.com/simpeg/simpeg) - Simulation and Parameter Estimation in Geophysics - A python package for simulation and gradient based parameter estimation in the context of geophysical applications
 
 ## Organizations
 
