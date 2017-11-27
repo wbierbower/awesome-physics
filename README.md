@@ -8,7 +8,6 @@ Please take a quick look at the [contribution guidelines](./CONTRIBUTING.md) fir
 
 ## Contents
 
-* [Fundamental Scientific Computing Libraries](#fundamental-scientific-computing-libraries)
 * [Mechanics](#mechanics)
 * [Waves and Acoustics](#waves-and-acoustics)
 * [Thermodynamics](#thermodynamics)
@@ -19,53 +18,6 @@ Please take a quick look at the [contribution guidelines](./CONTRIBUTING.md) fir
 * [Astrophysics](#astrophysics)
 * [Geophysics](#geophysics)
 * [Organizations](#organizations)
-
-## Fundamental Scientific Computing Libraries
-
-* [C++](#c)
-* [Fortran](#fortran)
-* [Go](#go)
-* [Python](#python)
-* [Rust](#rust)
-* [Swift](#swift)
-
-### C++
-
-* [awesome-cpp](https://github.com/fffaraz/awesome-cpp#scientific-computing)
-* [uBLAS](https://github.com/boostorg/ublas) - The Boost.uBLAS Linear Algebra Library
-* [gsl](https://github.com/ampl/gsl) - GNU Scientific Library
-
-### Fortran
-
-* [awesome-fortran](https://github.com/rabbiabram/awesome-fortran#math-libs)
-* [lapack](https://github.com/Reference-LAPACK/lapack) -  a library of Fortran subroutines for solving the most commonly occurring problems in numerical linear algebra
-
-### Go
-
-* [awesome-go](https://github.com/avelino/awesome-go#science-and-data-analysis)
-* [gonum](https://github.com/gonum/gonum) - a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more
-
-### Python
-
-* [awesome-python](https://github.com/vinta/awesome-python#science)
-* [matplotlib](https://github.com/matplotlib/matplotlib) - plotting with Python
-* [numpy](https://github.com/numpy/numpy) - the fundamental package needed for scientific computing with Python
-* [pandas](https://github.com/pandas-dev/pandas) - Flexible and powerful data analysis / manipulation library for Python
-* [pint](https://github.com/hgrecco/pint) - Operate and manipulate physical quantities in Python
-* [scipy](https://github.com/scipy/scipy) - open-source software for mathematics, science, and engineering
-* [sympy](https://github.com/sympy/sympy) - A computer algebra system written in pure Python
-
-### Rust
-
-* [awesome-rust](https://github.com/rust-unofficial/awesome-rust#computation)
-* [nalgebra](https://github.com/sebcrozet/nalgebra/) - Linear algebra library
-* [ncollide](https://github.com/sebcrozet/ncollide) - 2 and 3-dimensional collision detection library
-* [nrays](https://github.com/sebcrozet/nrays) - A basic 3 ray tracer
-
-### Swift
-
-* [awesome-swift](https://github.com/matteocrippa/awesome-swift#math)
-* [Surge](https://github.com/mattt/Surge) - uses the Accelerate framework to provide high-performance functions for matrix math, digital signal processing, and image manipulation
 
 ## Mechanics
 
