@@ -107,6 +107,7 @@ Please take a quick look at the [contribution guidelines](./CONTRIBUTING.md) fir
 ## Quantum Physics
 
 * [artiq](https://github.com/m-labs/artiq) - Next-generation control system for quantum information experiments
+* [flavio](https://github.com/flav-io/flavio) - flavour phenomenology in the Standard model and beyond
 * [hepdata](https://github.com/HEPData/hepdata) - the high energy physics data repository
 * [particle-clicker](https://github.com/particle-clicker/particle-clicker) - An addictive incremental game that teaches players the history of high energy particle physics
 * [Psi4](https://github.com/psi4/psi4) - Open-source Quantum Chemistry
