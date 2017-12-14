@@ -96,6 +96,7 @@ Please take a quick look at the [contribution guidelines](./CONTRIBUTING.md) fir
 * [lightpipes](https://github.com/opticspy/lightpipes) - Simulations of optical phenomena where diffraction is essential
 * [opticspy](https://github.com/Sterncat/opticspy) - A python module for optics applications
 * [poppy](https://github.com/mperrin/poppy) - Physical Optics Propagation in Python
+* [pyRT](https://github.com/martinchristen/pyRT) - a raytracer/image generator for Python
 * [rayopt](https://github.com/jordens/rayopt) - Python optics and lens design, raytracing
 * [raysect](https://github.com/raysect/source) - A ray-tracing framework for optical/non-optical physics simulations
 
