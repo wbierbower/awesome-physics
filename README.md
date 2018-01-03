@@ -32,13 +32,14 @@ Please take a quick look at the [contribution guidelines](./CONTRIBUTING.md) fir
 
 ### Rigid Bodies and Physics Engines
 
+* [bullet3](https://github.com/bulletphysics/bullet3) - real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning
 * [matter-js](https://github.com/liabru/matter-js) - A 2D rigid body physics engine for the web
 * [mujoco-py](https://github.com/openai/mujoco-py) - A physics engine for detailed, efficient rigid body simulations with contacts
+* [myphysicslab](https://github.com/myphysicslab/myphysicslab) - provides JavaScript classes to build real-time interactive animated physics simulations
 * [newton-dynamics](https://github.com/MADEAPPS/newton-dynamics) - an integrated solution for real time simulation of physics environments
 * [nphysics](https://github.com/sebcrozet/nphysics) - 2 and 3-dimensional rigid body physics engine for Rust
 * [PositionBasedDynamics](https://github.com/InteractiveComputerGraphics/PositionBasedDynamics) - A library for the physically-based simulation of rigid bodies, deformable solids and fluids
 * [pymunk](https://github.com/viblo/pymunk) - A easy-to-use pythonic 2d physics library
-* [bullet3](https://github.com/bulletphysics/bullet3) - real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning
 * [simbody](https://github.com/simbody/simbody) - High-performance C++ multibody dynamics/physics library for simulating articulated biomechanical and mechanical systems like vehicles, robots, and the human skeleton
 
 
