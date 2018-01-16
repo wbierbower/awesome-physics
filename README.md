@@ -39,6 +39,7 @@ Please take a quick look at the [contribution guidelines](./CONTRIBUTING.md) fir
 * [newton-dynamics](https://github.com/MADEAPPS/newton-dynamics) - an integrated solution for real time simulation of physics environments
 * [nphysics](https://github.com/sebcrozet/nphysics) - 2 and 3-dimensional rigid body physics engine for Rust
 * [PositionBasedDynamics](https://github.com/InteractiveComputerGraphics/PositionBasedDynamics) - A library for the physically-based simulation of rigid bodies, deformable solids and fluids
+* [pydy](https://github.com/pydy/pydy) - Multibody dynamics tool kit
 * [pymunk](https://github.com/viblo/pymunk) - A easy-to-use pythonic 2d physics library
 * [simbody](https://github.com/simbody/simbody) - High-performance C++ multibody dynamics/physics library for simulating articulated biomechanical and mechanical systems like vehicles, robots, and the human skeleton
 
