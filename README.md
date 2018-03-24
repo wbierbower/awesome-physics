@@ -132,6 +132,7 @@ Please take a quick look at the [contribution guidelines](./CONTRIBUTING.md) fir
 
 ## Geophysics
 
+* [burnman](https://github.com/geodynamics/burnman) - a library for modeling mantle thermodynamics and thermoelasticity constrained by mineral physics experiments
 * [em](https://github.com/geoscixyz/em) - Electromagnetic methods in geophysics - open educational resources
 * [simpeg](https://github.com/simpeg/simpeg) - Simulation and Parameter Estimation in Geophysics - A python package for simulation and gradient based parameter estimation in the context of geophysical applications
 
