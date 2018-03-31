@@ -96,6 +96,7 @@ Please take a quick look at the [contribution guidelines](./CONTRIBUTING.md) fir
 
 ## Optics
 
+* [euclider](https://github.com/Limeth/euclider) - A higher-dimensional "non-euclidean" ray tracing prototype written in Rust
 * [lightpipes](https://github.com/opticspy/lightpipes) - Simulations of optical phenomena where diffraction is essential
 * [opticspy](https://github.com/Sterncat/opticspy) - A python module for optics applications
 * [poppy](https://github.com/mperrin/poppy) - Physical Optics Propagation in Python
