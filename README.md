@@ -88,6 +88,7 @@ Please take a quick look at the [contribution guidelines](./CONTRIBUTING.md) fir
 * [openEMS](https://github.com/thliebig/openEMS) - A free and open-source electromagnetic field solver using the EC-FDTD method
 * [openmeeg](https://github.com/openmeeg/openmeeg) - A C++ package for low-frequency bio-electromagnetism solving forward problems in the field of EEG and MEG
 * [PlasmaPy](https://github.com/PlasmaPy/PlasmaPy) - A community developed python package for plasma physics in the very early stages of development.
+* [radis](https://github.com/radis/radis) - A nonequilibrium Radiative Solver for infrared molecular spectra
 * [scattpy](https://github.com/ScattPy/scikits.scattpy) - Light Scattering Methods for Python
 * [scikit-beam](https://github.com/scikit-beam/scikit-beam) - Data analysis tools for X-Ray, Neutron and Electron sciences
 * [scikit-rf](https://github.com/scikit-rf/scikit-rf) - RF and Microwave Engineering Scikit
