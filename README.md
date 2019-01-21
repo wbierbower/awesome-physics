@@ -33,6 +33,7 @@ Please take a quick look at the [contribution guidelines](./CONTRIBUTING.md) fir
 ### Rigid Bodies and Physics Engines
 
 * [bullet3](https://github.com/bulletphysics/bullet3) - real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning
+* [cannon.js](https://github.com/schteppe/cannon.js) - A lightweight 3D physics engine written in JavaScript
 * [matter-js](https://github.com/liabru/matter-js) - A 2D rigid body physics engine for the web
 * [mujoco-py](https://github.com/openai/mujoco-py) - A physics engine for detailed, efficient rigid body simulations with contacts
 * [myphysicslab](https://github.com/myphysicslab/myphysicslab) - provides JavaScript classes to build real-time interactive animated physics simulations
