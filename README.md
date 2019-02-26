@@ -55,6 +55,7 @@ Please take a quick look at the [contribution guidelines](./CONTRIBUTING.md) fir
 ### Gravity
 
 * [Gravity-Simulator](https://github.com/HermannBjorgvin/Gravity-Simulator) - A 2D newtonian gravity simulator in JS
+* [Gravisim](https://github.com/bcamp1/Gravisim) - A universal gravity simulator written using rust_sdl2
 * [pycbc](https://github.com/ligo-cbc/pycbc) - Analyze gravitational-wave data, find signals, and study their parameters
 
 ## Waves and Acoustics
