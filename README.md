@@ -51,6 +51,7 @@ Please take a quick look at the [contribution guidelines](./CONTRIBUTING.md) fir
 * [fluid-engine-dev](https://github.com/doyubkim/fluid-engine-dev) - Fluid simulation engine for computer graphics applications
 * [fluids](https://github.com/CalebBell/fluids) - Fluid dynamics component of Chemical Engineering Design Library (ChEDL)
 * [pysph](https://github.com/benma/pysph) - SPH fluid simulation with advanced screen space fluid rendering, using pyopengl and pyopencl
+* [DualSPHysics](https://github.com/DualSPHysics/DualSPHysics) - C++/CUDA/OpenMP based Smoothed Particle Hydrodynamics (SPH) solver
 
 ### Gravity
 
