@@ -123,6 +123,7 @@ Please take a quick look at the [contribution guidelines](./CONTRIBUTING.md) fir
 * [particle-clicker](https://github.com/particle-clicker/particle-clicker) - An addictive incremental game that teaches players the history of high energy particle physics
 * [Psi4](https://github.com/psi4/psi4) - Open-source Quantum Chemistry
 * [pypdt](https://bitbucket.org/andybuckley/pypdt) - Pythonic access to high energy particle data tables and ID codes
+* [QMsolve](https://github.com/quantum-visualizations/qmsolve) - A Python module for solving and visualizing the Schrödinger equation.
 * [quantum-python-lectures](https://github.com/tommyogden/quantum-python-lectures) -  A series of self-study lectures on using Python for scientific computing at the graduate level in atomic physics and quantum optics.
 * [QuantumOptics.jl](https://github.com/qojulia/QuantumOptics.jl) - Library for the numerical simulation of closed as well as open quantum systems
 * [qutip](https://github.com/qutip/qutip) - Quantum Toolbox in Python
