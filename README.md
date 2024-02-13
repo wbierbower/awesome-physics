@@ -148,7 +148,7 @@ Please take a quick look at the [contribution guidelines](./CONTRIBUTING.md) fir
 
 ## Condensed Matter Physics
 
-* [Solid State Simulations](https://web.archive.org/web/20060907125225/http://www.physics.cornell.edu/sss/simulationlist.html) A software with many interactive plots in the are of solid state physics. The software isn't maintained anymore. The latest version can be downloaded via [this link](https://web.archive.org/web/20190610115705/http://pages.physics.cornell.edu/~sethna/teaching/sss/labs/)
+* [Solid State Simulations](https://web.archive.org/web/20060907125225/http://www.physics.cornell.edu/sss/simulationlist.html) A software with many interactive plots in the area of solid state physics. The software isn't maintained anymore. The latest version can be downloaded via [this link](https://web.archive.org/web/20190610115705/http://pages.physics.cornell.edu/~sethna/teaching/sss/labs/)
 * [Shut up and calculate](https://github.com/Sinan81/shut-up-and-calculate) Python code to calculate and visualize the properties of 2 dimensional systems (such as cuprate superconductors).
 
 ## Organizations
