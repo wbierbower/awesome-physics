@@ -17,6 +17,7 @@ Please take a quick look at the [contribution guidelines](./CONTRIBUTING.md) fir
 * [Quantum Physics](#quantum-physics)
 * [Astrophysics](#astrophysics)
 * [Geophysics](#geophysics)
+* [Condensed Matter Physics](#condensed-matter-physics)
 * [Organizations](#organizations)
 
 ## Mechanics
@@ -130,6 +131,7 @@ Please take a quick look at the [contribution guidelines](./CONTRIBUTING.md) fir
 * [ROOT](https://github.com/root-project/root) - A data processing and analysis framework, mainly used in high-energy physics
 * [scikit-hep](https://github.com/scikit-hep/scikit-hep) - Toolkit of interfaces and tools for high energy physics (HEP)
 
+
 ## Astrophysics
 
 * [astropy](https://github.com/astropy/astropy) - intended to contain much of the core functionality and some common tools needed for performing astronomy and astrophysics with Python
@@ -143,6 +145,11 @@ Please take a quick look at the [contribution guidelines](./CONTRIBUTING.md) fir
 * [burnman](https://github.com/geodynamics/burnman) - a library for modeling mantle thermodynamics and thermoelasticity constrained by mineral physics experiments
 * [em](https://github.com/geoscixyz/em) - Electromagnetic methods in geophysics - open educational resources
 * [simpeg](https://github.com/simpeg/simpeg) - Simulation and Parameter Estimation in Geophysics - A python package for simulation and gradient based parameter estimation in the context of geophysical applications
+
+## Condensed Matter Physics
+
+* [Solid State Simulations](https://web.archive.org/web/20060907125225/http://www.physics.cornell.edu/sss/simulationlist.html) A software with many interactive plots in the area of solid state physics. The software isn't maintained anymore. The latest version can be downloaded via [this link](https://web.archive.org/web/20190610115705/http://pages.physics.cornell.edu/~sethna/teaching/sss/labs/)
+* [Shut up and calculate](https://github.com/Sinan81/shut-up-and-calculate) Python code to calculate and visualize the properties of 2 dimensional systems (such as cuprate superconductors).
 
 ## Organizations
 
