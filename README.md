@@ -30,6 +30,7 @@ Please take a quick look at the [contribution guidelines](./CONTRIBUTING.md) fir
 ### Kinematics
 
 * [scikit-kinematics](https://github.com/thomas-haslwanter/scikit-kinematics) - Python functions for working with 3D kinematics
+* [Open Source Physics](https://www.compadre.org/osp/search/browse.cfm?browse=j) Javascript based interactive physics animations
 
 ### Rigid Bodies and Physics Engines
 
@@ -46,6 +47,7 @@ Please take a quick look at the [contribution guidelines](./CONTRIBUTING.md) fir
 * [pydy](https://github.com/pydy/pydy) - Multibody dynamics tool kit
 * [pymunk](https://github.com/viblo/pymunk) - A easy-to-use pythonic 2d physics library
 * [simbody](https://github.com/simbody/simbody) - High-performance C++ multibody dynamics/physics library for simulating articulated biomechanical and mechanical systems like vehicles, robots, and the human skeleton
+* [Open Source Physics](https://www.compadre.org/osp/search/browse.cfm?browse=j) Javascript based interactive physics animations
 
 ### Fluid Mechanics
 
@@ -59,11 +61,13 @@ Please take a quick look at the [contribution guidelines](./CONTRIBUTING.md) fir
 * [Gravity-Simulator](https://github.com/HermannBjorgvin/Gravity-Simulator) - A 2D newtonian gravity simulator in JS
 * [Gravisim](https://github.com/bcamp1/Gravisim) - A universal gravity simulator written using rust_sdl2
 * [pycbc](https://github.com/ligo-cbc/pycbc) - Analyze gravitational-wave data, find signals, and study their parameters
+* [Open Source Physics](https://www.compadre.org/osp/search/browse.cfm?browse=j) Javascript based interactive physics animations
 
 ## Waves and Acoustics
 
 * [Mechanical Waves](#mechanical-waves)
 * [Sound](#sound)
+* [Open Source Physics](https://www.compadre.org/osp/search/browse.cfm?browse=j) Javascript based interactive physics animations
 
 ### Mechanical Waves
 
@@ -74,6 +78,7 @@ Please take a quick look at the [contribution guidelines](./CONTRIBUTING.md) fir
 ### Sound
 
 * [python-acoustics](https://github.com/python-acoustics/python-acoustics) - A Python library aimed at acousticians
+* [Open Source Physics](https://www.compadre.org/osp/search/browse.cfm?browse=j) Javascript based interactive physics animations
 
 ## Thermodynamics
 
@@ -82,6 +87,7 @@ Please take a quick look at the [contribution guidelines](./CONTRIBUTING.md) fir
 * [RMG-Py](https://github.com/ReactionMechanismGenerator/RMG-Py) - Python version of the amazing Reaction Mechanism Generator
 * [thermo](https://github.com/CalebBell/thermo) - Thermodynamics, phase equilibria, transport properties and chemical database component of Chemical Engineering Design Library (ChEDL)
 * [thermopy](https://github.com/guillemborrell/thermopy) - A python library for thermodynamics
+* [Open Source Physics](https://www.compadre.org/osp/search/browse.cfm?browse=j) Javascript based interactive physics animations
 
 ## Electromagnetism
 
@@ -99,6 +105,7 @@ Please take a quick look at the [contribution guidelines](./CONTRIBUTING.md) fir
 * [scikit-spectra](https://github.com/hugadams/scikit-spectra) - A python pandas-based toolkit for explorative spectroscopy, in particular UVVis spectroscopic data
 * [scuff-em](https://github.com/HomerReid/scuff-em) - computational physics suite for boundary-element analysis of electromagnetic scattering, fluctuation-induced phenomena, nanophotonics, RF device engineering, electrostatics, and more
 * [spirit](https://github.com/spirit-code/spirit) - Optimizations and Dynamics Framework for atomistic Spin systems
+* [Open Source Physics](https://www.compadre.org/osp/search/browse.cfm?browse=j) Javascript based interactive physics animations
 
 ## Optics
 
@@ -110,11 +117,13 @@ Please take a quick look at the [contribution guidelines](./CONTRIBUTING.md) fir
 * [pyRT](https://github.com/martinchristen/pyRT) - a raytracer/image generator for Python
 * [rayopt](https://github.com/jordens/rayopt) - Python optics and lens design, raytracing
 * [raysect](https://github.com/raysect/source) - A ray-tracing framework for optical/non-optical physics simulations
+* [Open Source Physics](https://www.compadre.org/osp/search/browse.cfm?browse=j) Javascript based interactive physics animations
 
 ## Relativity
 
 * [OpenRelativity](https://github.com/MITGameLab/OpenRelativity) - An open source framework to add the effects of traveling at relativistic speeds to visualizations or games
 * [TFG](https://github.com/agarciamontoro/TFG) - General Relativity massively parallel raytracer
+* [Open Source Physics](https://www.compadre.org/osp/search/browse.cfm?browse=j) Javascript based interactive physics animations
 
 ## Quantum Physics
 
@@ -130,6 +139,7 @@ Please take a quick look at the [contribution guidelines](./CONTRIBUTING.md) fir
 * [qutip](https://github.com/qutip/qutip) - Quantum Toolbox in Python
 * [ROOT](https://github.com/root-project/root) - A data processing and analysis framework, mainly used in high-energy physics
 * [scikit-hep](https://github.com/scikit-hep/scikit-hep) - Toolkit of interfaces and tools for high energy physics (HEP)
+* [Open Source Physics](https://www.compadre.org/osp/search/browse.cfm?browse=j) Javascript based interactive physics animations
 
 
 ## Astrophysics
@@ -139,6 +149,7 @@ Please take a quick look at the [contribution guidelines](./CONTRIBUTING.md) fir
 * [galpy](http://galpy.readthedocs.io/en/latest/) - Galactic Dynamics in python
 * [pynbody](https://github.com/pynbody/pynbody) - framework for N-body and hydrodynamic astrophysical simulations
 * [sunpy](https://github.com/sunpy/sunpy) - an open-source Python library for solar physics data analysis
+* [Open Source Physics](https://www.compadre.org/osp/search/browse.cfm?browse=j) Javascript based interactive physics animations
 
 ## Geophysics
 
