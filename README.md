@@ -53,6 +53,7 @@ Please take a quick look at the [contribution guidelines](./CONTRIBUTING.md) fir
 * [fluids](https://github.com/CalebBell/fluids) - Fluid dynamics component of Chemical Engineering Design Library (ChEDL)
 * [pysph](https://github.com/benma/pysph) - SPH fluid simulation with advanced screen space fluid rendering, using pyopengl and pyopencl
 * [DualSPHysics](https://github.com/DualSPHysics/DualSPHysics) - C++/CUDA/OpenMP based Smoothed Particle Hydrodynamics (SPH) solver
+* [MFC](https://github.com/MFlowCode/MFC) - Exascale compressible multiphase flow solver with GPU acceleration; 2025 Gordon Bell Prize Finalist
 
 ### Gravity
 
