@@ -60,6 +60,10 @@ Please take a quick look at the [contribution guidelines](./CONTRIBUTING.md) fir
 * [Gravisim](https://github.com/bcamp1/Gravisim) - A universal gravity simulator written using rust_sdl2
 * [pycbc](https://github.com/ligo-cbc/pycbc) - Analyze gravitational-wave data, find signals, and study their parameters
 
+### Physics Calculators
+
+* [Calculator Physics](https://calculatorphysics.com/) - Free physics calculators covering mechanics, electricity, optics and other fundamental physics concepts
+
 ## Waves and Acoustics
 
 * [Mechanical Waves](#mechanical-waves)
