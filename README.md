@@ -18,6 +18,7 @@ Please take a quick look at the [contribution guidelines](./CONTRIBUTING.md) fir
 * [Astrophysics](#astrophysics)
 * [Geophysics](#geophysics)
 * [Condensed Matter Physics](#condensed-matter-physics)
+* [Courses](#courses)
 * [Organizations](#organizations)
 
 ## Mechanics
@@ -150,6 +151,10 @@ Please take a quick look at the [contribution guidelines](./CONTRIBUTING.md) fir
 
 * [Solid State Simulations](https://web.archive.org/web/20060907125225/http://www.physics.cornell.edu/sss/simulationlist.html) A software with many interactive plots in the area of solid state physics. The software isn't maintained anymore. The latest version can be downloaded via [this link](https://web.archive.org/web/20190610115705/http://pages.physics.cornell.edu/~sethna/teaching/sss/labs/)
 * [Shut up and calculate](https://github.com/Sinan81/shut-up-and-calculate) Python code to calculate and visualize the properties of 2 dimensional systems (such as cuprate superconductors).
+
+## Courses
+
+* [Build Your Own Physics](https://github.com/Zensoro/build-your-own-physics) - zero-prerequisite curriculum: recreate 12 physics simulations from scratch, projectile motion to a solar system (bilingual 中文/English)
 
 ## Organizations
 
