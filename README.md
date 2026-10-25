@@ -45,6 +45,7 @@ Please take a quick look at the [contribution guidelines](./CONTRIBUTING.md) fir
 * [PositionBasedDynamics](https://github.com/InteractiveComputerGraphics/PositionBasedDynamics) - A library for the physically-based simulation of rigid bodies, deformable solids and fluids
 * [pydy](https://github.com/pydy/pydy) - Multibody dynamics tool kit
 * [pymunk](https://github.com/viblo/pymunk) - A easy-to-use pythonic 2d physics library
+* [Scivra](https://scivra.com/) - Interactive 3D science labs for high school (physics, chemistry, biology, Earth and environmental science), aligned with NGSS/AP/NY Regents; free to try in the browser with no account or download
 * [simbody](https://github.com/simbody/simbody) - High-performance C++ multibody dynamics/physics library for simulating articulated biomechanical and mechanical systems like vehicles, robots, and the human skeleton
 
 ### Fluid Mechanics
