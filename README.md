@@ -121,6 +121,7 @@ Please take a quick look at the [contribution guidelines](./CONTRIBUTING.md) fir
 * [artiq](https://github.com/m-labs/artiq) - Next-generation control system for quantum information experiments
 * [flavio](https://github.com/flav-io/flavio) - flavour phenomenology in the Standard model and beyond
 * [hepdata](https://github.com/HEPData/hepdata) - the high energy physics data repository
+* [Observer Patch Holography](https://github.com/FloatingPragma/observer-patch-holography) - Executable observer model and Lean 4 library for an approach to reconstructing physics, including quantum measurement and spacetime, from the records finite observers can share
 * [particle-clicker](https://github.com/particle-clicker/particle-clicker) - An addictive incremental game that teaches players the history of high energy particle physics
 * [Psi4](https://github.com/psi4/psi4) - Open-source Quantum Chemistry
 * [pypdt](https://bitbucket.org/andybuckley/pypdt) - Pythonic access to high energy particle data tables and ID codes
