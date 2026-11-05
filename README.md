@@ -146,6 +146,7 @@ Please take a quick look at the [contribution guidelines](./CONTRIBUTING.md) fir
 * [gala](https://github.com/adrn/gala) - Galactic and gravitational dynamics in Python
 * [galpy](http://galpy.readthedocs.io/en/latest/) - Galactic Dynamics in python
 * [pynbody](https://github.com/pynbody/pynbody) - framework for N-body and hydrodynamic astrophysical simulations
+* [space-atlas](https://github.com/saramjh/space_atlas_student) - free browser-based interactive astronomy concept models for Moon phases, Earth seasons, and cosmic scale
 * [sunpy](https://github.com/sunpy/sunpy) - an open-source Python library for solar physics data analysis
 * [Mzu-3D-Solar-System--Interactive-Solar-System-Simulator](https://github.com/sweesama/Mzu-3D-Solar-System--Interactive-Solar-System-Simulator) - Browser-based Three.js 3D solar system visualization (Sun and eight planets) with a true-scale toggle and real orbital periods; educational, not an ephemeris
 
