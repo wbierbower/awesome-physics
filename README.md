@@ -147,6 +147,7 @@ Please take a quick look at the [contribution guidelines](./CONTRIBUTING.md) fir
 * [galpy](http://galpy.readthedocs.io/en/latest/) - Galactic Dynamics in python
 * [pynbody](https://github.com/pynbody/pynbody) - framework for N-body and hydrodynamic astrophysical simulations
 * [sunpy](https://github.com/sunpy/sunpy) - an open-source Python library for solar physics data analysis
+* [Mzu-3D-Solar-System--Interactive-Solar-System-Simulator](https://github.com/sweesama/Mzu-3D-Solar-System--Interactive-Solar-System-Simulator) - Browser-based Three.js 3D solar system visualization (Sun and eight planets) with a true-scale toggle and real orbital periods; educational, not an ephemeris
 
 ## Geophysics
 
