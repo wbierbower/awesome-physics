@@ -89,6 +89,7 @@ Please take a quick look at the [contribution guidelines](./CONTRIBUTING.md) fir
 
 ## Electromagnetism
 
+* [BeamZ](https://github.com/beamzorg/beamz) - Free, open-source 2D/3D FDTD solver with an intuitive Python API, CUDA and multi-GPU acceleration, and gradient-based inverse design for photonics
 * [ElectricFieldSimulation](https://github.com/manucorporat/ElectricFieldSimulation) - An experimental example of how to use OpenGL for physical simulations
 * [EMpy](https://github.com/lbolla/EMpy) - A suite of algorithms widely known and used in electromagnetic problems and optics: the transfer matrix algorithm, the rigorous coupled wave analysis algorithm and more
 * [gprMax](https://github.com/gprMax/gprMax) - Simulates electromagnetic wave propagation using the Finite-Difference Time-Domain (FDTD) method for numerical modelling of Ground Penetrating Radar (GPR)
