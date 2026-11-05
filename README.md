@@ -130,6 +130,7 @@ Please take a quick look at the [contribution guidelines](./CONTRIBUTING.md) fir
 * [Psi4](https://github.com/psi4/psi4) - Open-source Quantum Chemistry
 * [pypdt](https://bitbucket.org/andybuckley/pypdt) - Pythonic access to high energy particle data tables and ID codes
 * [QMsolve](https://github.com/quantum-visualizations/qmsolve) - A Python module for solving and visualizing the Schrödinger equation.
+* [Qubi](https://www.qolour.io) - A physical model qubit. Two entangled spheres you rotate, measure, and entangle by hand. The companion app runs circuits on real IBM and IonQ quantum hardware.
 * [quantum-python-lectures](https://github.com/tommyogden/quantum-python-lectures) -  A series of self-study lectures on using Python for scientific computing at the graduate level in atomic physics and quantum optics.
 * [QuantumOptics.jl](https://github.com/qojulia/QuantumOptics.jl) - Library for the numerical simulation of closed as well as open quantum systems
 * [qutip](https://github.com/qutip/qutip) - Quantum Toolbox in Python
@@ -174,3 +175,4 @@ Please take a quick look at the [contribution guidelines](./CONTRIBUTING.md) fir
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, wbierbower has waived all copyright and related or neighboring rights to this work.
+
