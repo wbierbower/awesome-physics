@@ -54,6 +54,7 @@ Please take a quick look at the [contribution guidelines](./CONTRIBUTING.md) fir
 * [fluids](https://github.com/CalebBell/fluids) - Fluid dynamics component of Chemical Engineering Design Library (ChEDL)
 * [pysph](https://github.com/benma/pysph) - SPH fluid simulation with advanced screen space fluid rendering, using pyopengl and pyopencl
 * [DualSPHysics](https://github.com/DualSPHysics/DualSPHysics) - C++/CUDA/OpenMP based Smoothed Particle Hydrodynamics (SPH) solver
+* [OpenFLUME](https://github.com/OpenFLUME/OpenFLUME) - Thermo-fluid network solver for pipe flow, heat transfer, real fluids and two-phase flow, usable from a no-install browser UI or from Python (`pip install openflume`)
 
 ### Gravity
 
