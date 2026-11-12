@@ -33,6 +33,7 @@ Please take a quick look at the [contribution guidelines](./CONTRIBUTING.md) fir
 
 ### Rigid Bodies and Physics Engines
 
+* [alloy](https://github.com/argonrobotics-ai/alloy) - Multi-material, GPU-parallel physics engine for robot learning (robots, cloth, cables, liquids, sand and soft bodies in one scene), built on MuJoCo Warp and Newton (`pip install alloy-engine`)
 * [bullet3](https://github.com/bulletphysics/bullet3) - real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning
 * [cannon.js](https://github.com/schteppe/cannon.js) - A lightweight 3D physics engine written in JavaScript
 * [matter-js](https://github.com/liabru/matter-js) - A 2D rigid body physics engine for the web
