@@ -127,6 +127,7 @@ Please take a quick look at the [contribution guidelines](./CONTRIBUTING.md) fir
 ## Quantum Physics
 
 * [artiq](https://github.com/m-labs/artiq) - Next-generation control system for quantum information experiments
+* [Error Correction Zoo](https://github.com/errorcorrectionzoo/eczoo_data) - Open data behind errorcorrectionzoo.org, covering over 1,000 classical and quantum error-correcting codes
 * [flavio](https://github.com/flav-io/flavio) - flavour phenomenology in the Standard model and beyond
 * [hepdata](https://github.com/HEPData/hepdata) - the high energy physics data repository
 * [lfm-physics](https://github.com/gpartin/lfm-physics) - Lattice Field Medium simulation library with GPU acceleration, deriving gravity, electromagnetism, and quantum phenomena from two coupled wave equations
