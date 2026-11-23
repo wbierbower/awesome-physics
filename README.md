@@ -80,6 +80,7 @@ Please take a quick look at the [contribution guidelines](./CONTRIBUTING.md) fir
 ### Sound
 
 * [python-acoustics](https://github.com/python-acoustics/python-acoustics) - A Python library aimed at acousticians
+* [Online Tone Generator](https://bestlatestapps.com/tools/tone-generator/) - Browser tone generator from 1 Hz to 22 kHz with sine, square, sawtooth and triangle waves, note names, left or right channel and frequency sweeps
 
 ## Thermodynamics
 
