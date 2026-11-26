@@ -65,6 +65,7 @@ Please take a quick look at the [contribution guidelines](./CONTRIBUTING.md) fir
 ### Physics Calculators
 
 * [Calculator Physics](https://calculatorphysics.com/) - Free physics calculators covering mechanics, electricity, optics and other fundamental physics concepts
+* [EduBeam](https://github.com/janvorisek/edubeam) - Statics of 2D beams, frames and trusses in the browser: reactions, internal force diagrams and deflections that update as you edit the structure
 
 ## Waves and Acoustics
 
